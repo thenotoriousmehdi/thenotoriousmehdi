@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, React, Tailwind css**
+- 🔭 I’m currently working on **MERN Stack/ UI/UX Design**
 
-- 🌱 I’m currently learning **Front-end dev.**
+- 🌱 I’m currently learning **Web dev.**
 
 - 📫 Feel free to reach me out **km_mamouni@esi.dz**
 
