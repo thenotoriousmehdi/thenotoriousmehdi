@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **MERN Stack/ UI/UX Design**
+- 🔭 I’m currently working on **Full stack web develpement/ IoT / UI|UX Design**
 
-- 🌱 I’m currently learning **Web dev.**
+- 🌱 I’m currently learning **machine learning / big data mining**
 
 - 📫 Feel free to reach me out **km_mamouni@esi.dz**
 
