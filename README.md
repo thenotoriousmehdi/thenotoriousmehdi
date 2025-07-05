@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-<img src="banner.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner1.jpg" alt="GitHub Banner" width="100%" />
 
 
 
