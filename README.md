@@ -9,6 +9,7 @@
   </ul>
 </div>
 
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 
 
@@ -35,28 +36,19 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thenotoriousmehdi&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="http://github-readme-streak-stats.herokuapp.com?user=thenotoriousmehdi&theme=dark" /> 
-</td>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=thenotoriousmehdi&theme=dark&show_icons=true&count_private=true"
+      alt="GitHub Stats"
+    />
+    <img
+      src="http://github-readme-streak-stats.herokuapp.com?user=thenotoriousmehdi&theme=dark"
+      alt="GitHub Streak"
+    />
+  </div>
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thenotoriousmehdi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
-
-
-
-
-
 
 
 <!--h1 without bottom border-->
@@ -65,12 +57,26 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,figma,github,html,idea,java,js,linux,materialui,react,tailwind, react,tailwind,vscode&perline=14" />
-  </a>
-</p>
+<ul align="center">
+  
+###  Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,c,java,kotlin,py,pascal)](https://skillicons.dev)  
+
+###  FrontEnd Development  
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
+
+###  BackEnd Development  
+[![My Skills](https://skillicons.dev/icons?i=django,express,fastapi,nestjs,nodejs,prisma)](https://skillicons.dev)  
+
+###  Databases  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase)](https://skillicons.dev)  
+
+###  DevOps & Testing  
+[![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,gherkin,postman,selenium)](https://skillicons.dev)  
+
+###  UI/UX & Design  
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwind)](https://skillicons.dev)  
+ </ul>
 
 
 <!-- Connect with me -->
