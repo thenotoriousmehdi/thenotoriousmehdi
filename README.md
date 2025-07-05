@@ -59,7 +59,7 @@
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev) 
 
 ###  Databases & Cloud  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,docker)](https://skillicons.dev)  
 
 ###  Machine Learning & AI  
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,py,r)](https://skillicons.dev)  
