@@ -14,7 +14,7 @@
 <!--Intro start-->
 - 🔭 I'm currently working on **Full stack web development/ UX|UI Design / Machine Learning**
 - 🌱 I'm currently learning **Advanced ML algorithms / Big data mining / Cloud computing**
-- 💼 I'm looking for opportunities in **Software Engineering / Full Stack Development / UI|UI Design**
+- 💼 I'm looking for opportunities in **Software Engineering / Full Stack Development / UX|UI Design**
 - 📫 Feel free to reach me out **km_mamouni@esi.dz**
 <!--Intro end-->
 
